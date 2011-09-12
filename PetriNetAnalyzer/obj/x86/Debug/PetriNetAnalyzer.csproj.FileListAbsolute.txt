@@ -1,0 +1,16 @@
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\PetriNetAnaliz.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\PetriNetAnaliz.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\Library.dll
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\Library.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\Petri Net Editor.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\PetriNetAnalyzer.Properties.Resources.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\PetriNetAnalyzer.App.Views.Form1.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\GraphEditor.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Debug\PetriNetAnalyzer.App.Views.TreeGraphViewForm.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\GraphEditor.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Debug\Petri Net Editor.exe

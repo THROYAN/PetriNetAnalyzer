@@ -1,0 +1,16 @@
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\PetriNetAnaliz.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\GraphEditor.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\Library.dll
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\Petri Net Editor.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\GraphEditor.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\Library.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\bin\Release\Petri Net Editor.pdb
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\ResolveAssemblyReference.cache
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\PetriNetAnalyzer.App.Views.Form1.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\PetriNetAnalyzer.App.Views.TreeGraphViewForm.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\PetriNetAnalyzer.Properties.Resources.resources
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\GenerateResource.read.1.tlog
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\GenerateResource.write.1.tlog
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnalyzer\PetriNetAnalyzer\obj\x86\Release\PetriNetAnaliz.pdb

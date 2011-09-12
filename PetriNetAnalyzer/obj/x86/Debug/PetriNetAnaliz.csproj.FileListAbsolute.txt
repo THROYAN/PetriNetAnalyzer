@@ -1,0 +1,15 @@
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\PetriNetAnaliz.Properties.Resources.resources
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\PetriNetAnaliz.pdb
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\GraphEditor.exe
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\Library.dll
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\Petri Net Editor.exe
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\GraphEditor.pdb
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\Library.pdb
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\bin\Debug\Petri Net Editor.pdb
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\PetriNetAnaliz.exe
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\PetriNetAnaliz.pdb
+D:\THROYAN projects\PetriNetAnaliz\PetriNetAnaliz\obj\x86\Debug\PetriNetAnaliz.Form1.resources
